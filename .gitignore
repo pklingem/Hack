@@ -1,2 +1,5 @@
 # remove backup FontLab Studio source files
 *.vfbak
+
+# ignore fontconfig cache files
+.uuid
